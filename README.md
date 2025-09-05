@@ -4,8 +4,7 @@
 <img class="img-fluid" src="multitaxonomic.jpeg" alt="img-verification" width="755" height="755">
 </div>
 
-We introduce **El Silencio**, a new bioacoustics dataset designed to benchmark multi-taxonomic identification using passive acoustic monitoring. The dataset features 770 one-minute soundscape recordings captured by AudioMoth recorders in the Middle Magdalena Medio region of Colombia during March and August 2023. These recordings, totalling 12.8 hours, were collected from seven sites with varying forest compositions, with a focus on dawn and dusk periods when biological activity is highest. The dataset contains approximately 15,000 strongly labelled bounding boxes representing four different taxonomic groups. You can read more about the context of the project [here](https://experiment.com/u/oDaVbQ).
-
+We introduce **El Silencio**, a new bioacoustics dataset designed to benchmark multi-taxonomic identification using passive acoustic monitoring. The dataset features 770 one-minute soundscape recordings captured by AudioMoth recorders in the Middle Magdalena Medio region of Colombia during March and August 2023. These recordings, totalling 12.8 hours, were collected from seven sites with varying forest compositions, with a focus on dawn and dusk periods when biological activity is highest. The dataset contains approximately 15,000 strongly labelled bounding boxes representing four different taxonomic groups (check here the annotation [protocol](https://github.com/redecoacustica/elsilencio-dataset/blob/main/Protocol.pdf) in Spanish). You can read more about the context of the project [here](https://experiment.com/u/oDaVbQ).
 
 **[Download El Silencio](test)**
 
@@ -14,6 +13,8 @@ Additionally, we open 11,340 unlabeled soundscapes from the same region. These f
 **[Download Unlabeled Soundscapes](test)**
 
 El Silencio was also used as a test set for the [BirdCLEF+2025](https://www.kaggle.com/competitions/birdclef-2025) Challenge. By making this dataset available, we aim to foster collaboration between machine learning researchers and ecologists to better understand how global change is impacting biodiversity. 
+
+We thank Earth Species Project, Experiment.com and Footprint Coalition under a Science Engine grant, AI for Interspecies Communication, for the initial [grant](https://www.earthspecies.org/blog/new-grants-to-catalyze-research-into-ai-and-non-human-communication) that allowed the starting of the building of the dataset.
 
 ## Citing this work
 
