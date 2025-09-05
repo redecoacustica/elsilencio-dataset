@@ -14,7 +14,7 @@ Additionally, we open 11,340 unlabeled soundscapes from the same region. These f
 
 El Silencio was also used as a test set for the [BirdCLEF+2025](https://www.kaggle.com/competitions/birdclef-2025) Challenge. By making this dataset available, we aim to foster collaboration between machine learning researchers and ecologists to better understand how global change is impacting biodiversity. 
 
-We thank Earth Species Project, Experiment.com and Footprint Coalition under a Science Engine grant, AI for Interspecies Communication, for the initial [grant](https://www.earthspecies.org/blog/new-grants-to-catalyze-research-into-ai-and-non-human-communication) that allowed the starting of the building of the dataset.
+We thank Earth Species Project, Experiment.com and Footprint Coalition under a Science Engine grant, AI for Interspecies Communication, for the initial [grant](https://experiment.com/projects/a-benchmark-toward-an-end-to-end-machine-learning-system-for-acoustic-monitoring-wildlife-populations-and-ecosystems) that allowed the starting of the building of the dataset.
 
 ## Citing this work
 
